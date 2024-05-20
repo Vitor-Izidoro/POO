@@ -1,7 +1,7 @@
 # POO
 Requisitos:</br>
 Menu: </br>
-	Deverá existir inicialmente um menu de controle de acesso a todas as funcionalidades do sistema.
+	Deverá existir inicialmente um menu de controle de acesso a todas as funcionalidades do sistema. </br>
 Cadastrar Admin:</br>
 	Nome, email, senha.</br>
 Cadastrar Vendedor:</br>
